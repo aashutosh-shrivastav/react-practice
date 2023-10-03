@@ -1,0 +1,25 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.d-flex {
+  display: flex;
+}
+.ai-center{
+    align-items: center;
+}
+.spacer {
+  flex: 1 1 auto;
+}
+.pd-1em{
+    padding: 1em;
+}
+.pd-lr-10{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
